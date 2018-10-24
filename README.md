@@ -1,7 +1,7 @@
 # ChatBot(seq2seq)
 NLG를 활용한 ChatBot을 개발함  
 
-![images](images/project_structure.png)  
+![images](images/seq2seq.png)  
 
 
 # Learning Data
@@ -20,7 +20,7 @@ pandas
 sklearn   
 
 # Project Structure
-![images](images/seq2seq.png)     
+![images](images/project_structure.png)     
    
 
 # Config
