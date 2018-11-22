@@ -31,6 +31,7 @@ sklearn
     ├── configs.py                  # 모델 설정에 관한 소스
     ├── data.py                     # data 전처리 및 모델에 주입되는 data set 만드는 소스
     ├── main.py                     # 전체적인 프로그램이 시작되는 소스
+    ├── main.ipynb                  # 주피터 노트북을 통해 프로그램 내용을 확인 가능
     ├── model.py                    # 모델이 들어 있는 소스
     └── predict.py                  # 학습된 모델로 실행 해보는 소스   
    
