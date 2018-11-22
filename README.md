@@ -1,6 +1,7 @@
 # ChatBot(seq2seq)
 NLG를 활용한 ChatBot을 개발함  
 
+# Architecture 
 ![images](images/seq2seq.png)  
 
 
